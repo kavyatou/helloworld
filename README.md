@@ -1,4 +1,3 @@
-This is my practing automation
 HelloWorld
 ==========
 
